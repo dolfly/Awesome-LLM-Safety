@@ -441,6 +441,10 @@
 | 26.05 | Nanyang Technological University, Singapore | arxiv | [BiAxisAudit: A Novel Framework to Evaluate LLM Bias Across Prompt Sensitivity and Response-Layer Divergence](https://arxiv.org/abs/2605.09041) | **Bias**&**Audit**&**Prompt Sensitivity** |
 | 26.05 | Department of Computer Science, University of Toronto | ACL 2026 | [Fin-Bias: Comprehensive Evaluation for LLM Decision-Making under human bias in Finance Domain](https://arxiv.org/abs/2605.09106) | **Finance**&**Bias**&**Decision-Making** |
 | 26.05 | Mila - Quebec AI Institute | arxiv | [Mechanics of Bias and Reasoning: Interpreting the Impact of Chain-of-Thought Prompting on Gender Bias in LLMs](https://arxiv.org/abs/2605.20410) | **GenderBias**&**ChainOfThought**&**MechanisticInterpretability** |
+| 26.06 | University of Hawaii at Manoa, Honolulu HI 96822, USA | AIED 2026 | [Identifying High-Confidence Social Biases in LLMs for Trustworthy Conversational Tutoring Agents](https://arxiv.org/abs/2606.01584) | **Social Bias**&**Tutoring Agents**&**Trustworthy AI** |
+| 26.06 | University of Michigan | arxiv | [It Takes One to Bias Them All: Breaking Bad with One-Shot GRPO](https://arxiv.org/abs/2606.10931) | **GRPO**&**bias induction**&**alignment robustness** |
+| 26.06 | Computational Intelligence & Modeling, Los Alamos National Laboratory, Los Alamos, New Mexico, USA | arxiv | [Occupational Prompting Reveals Cultural Bias in Large Language Models](https://arxiv.org/abs/2606.12443) | **cultural bias**&**occupational prompting**&**value surveys** |
+| 26.06 | Graduate School of Data Science, Seoul National University | arxiv | [Polar: A Benchmark for Evaluating Political Bias in LLMs](https://arxiv.org/abs/2606.12922) | **Political Bias**&**LLM Evaluation**&**Multilingual Benchmarks** |
 
 
 ## 💻Presentations & Talks

@@ -566,6 +566,15 @@
 | 26.05 | Karlsruhe Institute of Technology, Germany | arxiv | [When Helpful Context Leaks: Privacy Risks in Domain-Adapted ASR](https://arxiv.org/abs/2605.28211) | **ASR Privacy**&**Domain Adaptation**&**Context Leakage** |
 | 26.05 | Beijing University of Posts and Telecommunications | arxiv | [MaskClaw: Edge-Side Personalized Privacy Arbitration for GUI Agents with Behavior-Driven Skill Evolution](https://arxiv.org/abs/2605.28646) | **GUI agents**&**privacy arbitration**&**edge security** |
 | 26.05 | East China Normal University | CCS 2026 | [What Does the Server See? Understanding Privacy Leakage from Large Language Models in Split Inference](https://arxiv.org/abs/2605.23158) | **LLM Privacy**&**Split Inference**&**Activation Inversion** |
+| 26.06 | MedVisAI Lab, Singapore | arxiv | [Selective Token-Level Cryptographic Redaction for Privacy-Preserving Clinical Deployment of Large Language Models](https://arxiv.org/abs/2606.03399) | **Clinical privacy**&**Cryptographic redaction**&**Token encryption** |
+| 26.06 | National University of Singapore (Chongqing) Research Institute | arxiv | [SharedRequest: Privacy-Preserving Model-Agnostic Inference for Large Language Models](https://arxiv.org/abs/2606.05004) | **Prompt Privacy**&**Private Inference**&**LLM Privacy** |
+| 26.06 | The Hong Kong University of Science and Technology | arxiv | [SENTINELRAG: Synthetic Sentinel Knowledge for RAG Database Copyright Protection](https://arxiv.org/abs/2606.05787) | **RAG watermarking**&**copyright protection**&**synthetic knowledge** |
+| 26.06 | The Hong Kong University of Science and Technology (Guangzhou) | arxiv | [What Your Posts Reveal: A Benchmark and Agentic Framework for User-Level Privacy Leakage on Social Media](https://arxiv.org/abs/2606.06784) | **privacy leakage**&**social media**&**agentic inference** |
+| 26.06 | Arizona State University | arxiv | [Unveiling Privacy Risks in Multi-modal Large Language Models: Task-specific Vulnerabilities and Mitigation Challenges](https://arxiv.org/abs/2606.09125) | **Multimodal Privacy**&**Data Leakage**&**MLLM Safety** |
+| 26.06 | Google Research, San Francisco, CA | arxiv | [Advancing the State-of-the-Art in Empirical Privacy Auditing](https://arxiv.org/abs/2606.10481) | **Privacy Auditing**&**Synthetic Canaries**&**Membership Inference** |
+| 26.06 | University of California, Los Angeles | arxiv | [Defense Against Prompt Inversion Attacks: An Information-Theoretic Approach for LLM Collaborative Inference](https://arxiv.org/abs/2606.11592) | **prompt inversion**&**collaborative inference**&**privacy adapters** |
+| 26.06 | No affiliation listed in PDF | arxiv | [OCELOT: Inference-Leakage Budgets for Privacy-Preserving LLM Agents](https://arxiv.org/abs/2606.12341) | **agent privacy**&**inference leakage**&**runtime mediation** |
+| 26.06 | The Chinese University of Hong Kong | arxiv | [CAPED: Context-Aware Privacy Exposure Defense for Mobile GUI Agents](https://arxiv.org/abs/2606.12666) | **Mobile GUI agents**&**Privacy exposure**&**Selective redaction** |
 
 
 

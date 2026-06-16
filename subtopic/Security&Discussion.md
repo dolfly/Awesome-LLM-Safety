@@ -489,6 +489,14 @@
 | 26.05 | Mitel Networks, Athens, 15124, Greece | arxiv | [Protecting On-Device AI Inference: A Systematic Review of Attacks and Defence Mechanisms](https://arxiv.org/abs/2605.29450) | **On-device Inference**&**AI Security**&**Defense Mechanisms** |
 | 26.05 | Chung-Ang University | arxiv | [Beyond Attack Success Rate: Temporal Logit Observability for LLM Safety Failures](https://arxiv.org/abs/2605.29629) | **Jailbreak Evaluation**&**Logit Monitoring**&**LLM Safety** |
 | 26.05 | University of Tennessee, Knoxville | arxiv | [Token Inflation: How Dishonest Providers Can Overcharge for Large Language Model Usage](https://arxiv.org/abs/2605.30040) | **Token Billing**&**Auditability**&**Provider Trust** |
+| 26.06 | Sapienza University of Rome, Piazzale Aldo Moro, 5, Roma, 00185, Italy | AAAI 2026 Workshop (WS37), Machine Ethics: from formal methods to emergent machine ethics | [Learning from Mistakes: Can LLM Self-Recover after Misalignment?](https://arxiv.org/abs/2606.00003) | **Alignment Recovery**&**Jailbreak Evaluation**&**LLM Safety** |
+| 26.06 | Independent Researcher | arxiv | [Adversarial Feeds Steer LLM Agent Decisions Against Their Defaults](https://arxiv.org/abs/2606.00914) | **LLM Agents**&**Feed Manipulation**&**Decision Steering** |
+| 26.06 | Carnegie Mellon University | arxiv | [SciTrace: Trajectory-Aware Safety Reasoning for Scientific Discovery Agents](https://arxiv.org/abs/2606.08234) | **Scientific agents**&**Safety reasoning**&**Tool-chain verification** |
+| 26.06 | Jiutian Research, China Mobile Jiutian Artificial Intelligence Technology (Beijing) Co., Ltd., Beijing, China | arxiv | [Personalization Meets Safety: Mechanisms, Risks, and Mitigations in Personalized LLMs](https://arxiv.org/abs/2606.09038) | **Personalized LLMs**&**Safety risks**&**Risk mitigation** |
+| 26.06 | University of Chicago | arxiv | [Benchmarking and Exploring the Capabilities of LLMs for Attack Investigations](https://arxiv.org/abs/2606.10281) | **Audit Logs**&**Attack Investigation**&**Security Benchmark** |
+| 26.06 | State Key Laboratory for Novel Software Technology, Nanjing University, China | ACM Transactions on Software Engineering and Methodology | [Toward Secure LLM Agents: Threat Surfaces, Attacks, Defenses, and Evaluation](https://arxiv.org/abs/2606.10749) | **LLM agent security**&**threat surfaces**&**defense evaluation** |
+| 26.06 | School of Computer Science and Engineering, Guangzhou Institute of Science and Technology, Guangzhou, China | arxiv | [Understanding and mitigating the risks of OpenClaw for non-technical users: A practical guide with Skill](https://arxiv.org/abs/2606.11007) | **OpenClaw risks**&**agent security**&**user guidance** |
+| 26.06 | Zhejiang University | arxiv | [MultiToP: Learning to Patch Visual Tokens to Mitigate Hallucinations in Video Large Multimodal Models](https://arxiv.org/abs/2606.11792) | **video hallucination**&**visual token patching**&**multimodal models** |
 
 
 

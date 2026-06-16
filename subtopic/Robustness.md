@@ -101,6 +101,10 @@
 | 26.05 | Harbin Institute of Technology, Shenzhen | arxiv | [Mistletoe: Stealthy Acceleration-Collapse Attacks on Speculative Decoding](https://arxiv.org/abs/2605.14005) | **Speculative Decoding**&**Inference Security**&**Acceleration Collapse** |
 | 26.05 | Department of Computer Science, Birzeit University, Ramallah, Palestine | arxiv | [Enhancing Reliability in LLM-Based Secure Code Generation](https://arxiv.org/abs/2605.24300) | **Secure Code Generation**&**Prompt Engineering**&**MA-CoT** |
 | 26.05 | The State Key Laboratory of Blockchain and Data Security, Zhejiang University | arxiv | [Aligned but Fragile: Enhancing LLM Safety Robustness via Zeroth-Order Optimization](https://arxiv.org/abs/2605.29396) | **Safety Alignment**&**Robustness**&**Zeroth-order Optimization** |
+| 26.06 | Amazon | arxiv | [Easier to Mislead Than to Correct: Harmful and Beneficial Revision in LLM Conformity](https://arxiv.org/abs/2606.01637) | **LLM Conformity**&**Multi-Agent Systems**&**Peer Influence** |
+| 26.06 | Mohamed Bin Zayed University of AI, UAE | arxiv | [Exploring Adversarial Robustness and Safety Alignment in Multilingual Multi-Modal Large Language Models](https://arxiv.org/abs/2606.03793) | **Multilingual MLLMs**&**Adversarial robustness**&**Safety alignment** || 26.06 | Mohamed Bin Zayed University of AI, UAE | arxiv | [Exploring Adversarial Robustness and Safety Alignment in Multilingual Multi-Modal Large Language Models](https://arxiv.org/abs/2606.03793) | **Multilingual MLLMs**&**Adversarial robustness**&**Safety alignment** |
+| 26.06 | Griffith University | arxiv | [From Agent Traces to Trust: Evidence Tracing and Execution Provenance in LLM Agents](https://arxiv.org/abs/2606.04990) | **Evidence Tracing**&**Execution Provenance**&**LLM Agents** |
+| 26.06 | GECAD, ISEP, Polytechnic of Porto, rua Dr. António Bernardino de Almeida, 4249-015 Porto, Portugal | KES 2026 | [Influence Factors on RAG Poisoning](https://arxiv.org/abs/2606.12469) | **RAG poisoning**&**Adversarial retrieval**&**Robustness** |
 
 
 
